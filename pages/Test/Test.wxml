@@ -1,0 +1,21 @@
+<!--pages/Test/Test.wxml-->
+<view class='style'>
+</view>
+<view class='order'>
+  <view>
+  <view class='index'>
+     <image src='image/1.png'></image>
+      <text class='title'>
+        {{ title }}
+      </text>
+      <text class='info'>
+        快递位置:{{ xiaoposition }}
+        发布者：{{ prom }}
+      </text>
+      <text class='timeStyle'>发布时间：{{ time }}</text>
+      <text class='money'>{{ money }}</text>
+  </view>  
+  </view>
+</view>
+
+

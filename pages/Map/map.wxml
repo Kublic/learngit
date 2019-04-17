@@ -1,0 +1,4 @@
+<!--pages/Map/map.wxml-->
+<view>
+  <map longitude='113.02' latitude='25.78'></map>
+</view>
